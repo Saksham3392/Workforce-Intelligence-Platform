@@ -1,0 +1,156 @@
+{
+  "model_name": "Enterprise Attrition Prediction Model",
+  "version": "v1.0",
+  "algorithm": "LogisticRegression",
+  "training_date": "2026-09-01 16:57:32",
+  "dataset_size": 2500,
+  "features": {
+    "numeric": [
+      "Age",
+      "MonthlySalary",
+      "OvertimeHoursPerMonth",
+      "LeavesTaken",
+      "ProjectsHandled",
+      "TrainingHours",
+      "YearsAtCompany",
+      "WorkLifeBalanceScore",
+      "PerformanceRating",
+      "Promotion_Gap",
+      "Salary_Per_Year_At_Company",
+      "Overtime_Ratio",
+      "Tenure_Ratio",
+      "Burnout_Index"
+    ],
+    "categorical": [
+      "Department",
+      "JobRole",
+      "Gender",
+      "EducationLevel"
+    ],
+    "all_transformed": [
+      "Age",
+      "MonthlySalary",
+      "OvertimeHoursPerMonth",
+      "LeavesTaken",
+      "ProjectsHandled",
+      "TrainingHours",
+      "YearsAtCompany",
+      "WorkLifeBalanceScore",
+      "PerformanceRating",
+      "Promotion_Gap",
+      "Salary_Per_Year_At_Company",
+      "Overtime_Ratio",
+      "Tenure_Ratio",
+      "Burnout_Index",
+      "Department_Finance",
+      "Department_HR",
+      "Department_IT",
+      "Department_Marketing",
+      "Department_Sales",
+      "Department_Support",
+      "JobRole_Account Manager",
+      "JobRole_Accountant",
+      "JobRole_Auditor",
+      "JobRole_Business Development",
+      "JobRole_Content Lead",
+      "JobRole_Content Strategist",
+      "JobRole_Cybersecurity Specialist",
+      "JobRole_Data Analyst",
+      "JobRole_Developer",
+      "JobRole_Employee Relations",
+      "JobRole_Engineer",
+      "JobRole_Financial Analyst",
+      "JobRole_HR Executive",
+      "JobRole_HR Manager",
+      "JobRole_Helpdesk",
+      "JobRole_Marketing Executive",
+      "JobRole_Recruitment Specialist",
+      "JobRole_SEO Analyst",
+      "JobRole_SEO Specialist",
+      "JobRole_Sales Executive",
+      "JobRole_Software Engineer",
+      "JobRole_Support Engineer",
+      "JobRole_Tester",
+      "Gender_Female",
+      "Gender_Male",
+      "Gender_Other",
+      "EducationLevel_1",
+      "EducationLevel_2",
+      "EducationLevel_3",
+      "EducationLevel_4",
+      "EducationLevel_5"
+    ]
+  },
+  "metrics": {
+    "accuracy": 0.948,
+    "precision": 0.4889,
+    "recall": 0.88,
+    "f1_score": 0.6286,
+    "roc_auc": 0.9805
+  },
+  "all_model_comparison": {
+    "LogisticRegression": {
+      "accuracy": 0.948,
+      "precision": 0.4889,
+      "recall": 0.88,
+      "f1_score": 0.6286,
+      "roc_auc": 0.9805
+    },
+    "RandomForest": {
+      "accuracy": 0.954,
+      "precision": 0.5357,
+      "recall": 0.6,
+      "f1_score": 0.566,
+      "roc_auc": 0.9672
+    },
+    "XGBoost": {
+      "accuracy": 0.956,
+      "precision": 0.5556,
+      "recall": 0.6,
+      "f1_score": 0.5769,
+      "roc_auc": 0.9677
+    }
+  },
+  "top_global_drivers": [
+    [
+      "MonthlySalary",
+      3.935466160771419
+    ],
+    [
+      "Overtime_Ratio",
+      2.0523820502865457
+    ],
+    [
+      "OvertimeHoursPerMonth",
+      2.052382050286545
+    ],
+    [
+      "Burnout_Index",
+      1.9314280334546423
+    ],
+    [
+      "Promotion_Gap",
+      1.6048866002167592
+    ],
+    [
+      "JobRole_Developer",
+      1.5342416152042038
+    ],
+    [
+      "JobRole_Software Engineer",
+      1.1101825564492196
+    ],
+    [
+      "JobRole_Marketing Executive",
+      1.091469378760656
+    ],
+    [
+      "WorkLifeBalanceScore",
+      1.0146782199039368
+    ],
+    [
+      "PerformanceRating",
+      0.9533042353371838
+    ]
+  ]
+}

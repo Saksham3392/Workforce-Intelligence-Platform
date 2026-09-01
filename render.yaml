@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: enterprise-hr-ai-platform
+    env: docker
+    plan: standard
+    dockerfilePath: Dockerfile
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: 8501
+      - key: PYTHONUNBUFFERED
+        value: '1'

@@ -1,0 +1,16 @@
+CourseID,Title,Category,TargetSkill,Difficulty,DurationHours,Rating
+CRS-101,Production MLOps: Deploying & Monitoring ML Pipelines,Technical,MLOps,Advanced,24,4.8
+CRS-102,AWS Certified Solutions Architect & Cloud Engineering,Technical,AWS,Intermediate,30,4.9
+CRS-103,Generative AI & LLM Application Engineering,Technical,Generative AI,Advanced,20,4.9
+CRS-104,Docker & Kubernetes for Cloud Native DevOps,Technical,Docker,Intermediate,18,4.7
+CRS-105,Advanced Python Architecture & Performance Optimization,Technical,Python,Advanced,22,4.8
+CRS-106,Advanced SQL & Modern Data Warehousing,Technical,SQL,Intermediate,16,4.7
+CRS-107,PowerBI & Tableau Executive Dashboards,Technical,PowerBI,Beginner,14,4.6
+CRS-108,Enterprise Cybersecurity & Threat Intelligence,Technical,Cybersecurity,Advanced,28,4.8
+CRS-109,Full-Stack React & Next.js Modern Development,Technical,React,Intermediate,25,4.7
+CRS-110,Strategic Negotiation & High-Value B2B Closing,Domain,Negotiation,Intermediate,12,4.8
+CRS-111,Strategic HR Leadership & Talent Retention Strategies,Domain,Employee Retention,Advanced,16,4.7
+CRS-112,"Financial Modeling, Valuation & Risk Management",Domain,Financial Modeling,Advanced,20,4.9
+CRS-113,Technical SEO & Data-Driven Growth Marketing,Domain,SEO,Intermediate,15,4.6
+CRS-114,Workplace Conflict Resolution & Empathy-Driven Leadership,Domain,Conflict Resolution,Beginner,10,4.8
+CRS-115,Test Automation with Selenium & PyTest,Technical,Test Automation,Intermediate,18,4.7

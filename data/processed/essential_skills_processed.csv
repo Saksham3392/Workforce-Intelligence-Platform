@@ -1,0 +1,79 @@
+Role,Category,Skill,Importance
+Sales Executive,Domain,Lead Generation,5
+Sales Executive,Domain,Negotiation,5
+Sales Executive,Domain,Client Relationship Management,4
+Sales Executive,Domain,Pipeline Management,4
+Sales Executive,Domain,B2B Sales,4
+Account Manager,Domain,Account Growth,5
+Account Manager,Domain,Contract Renewal,5
+Account Manager,Domain,Client Relationship Management,5
+Account Manager,Domain,Cross-selling,4
+Software Engineer,Technical,Data Structures & Algorithms,5
+Software Engineer,Technical,System Design,5
+Software Engineer,Technical,REST APIs,5
+Software Engineer,Technical,Code Quality & Testing,4
+Software Engineer,Technical,CI/CD,4
+Developer,Technical,Full-Stack Development,5
+Developer,Technical,API Integration,5
+Developer,Technical,Database Design,4
+Developer,Technical,Git Version Control,4
+Engineer,Technical,Backend Architecture,5
+Engineer,Technical,Cloud Infrastructure,5
+Engineer,Technical,DevOps,4
+Data Analyst,Technical,Exploratory Data Analysis,5
+Data Analyst,Technical,Data Cleaning,5
+Data Analyst,Technical,Statistical Analysis,5
+Data Analyst,Technical,Business Reporting,4
+Cybersecurity Specialist,Technical,Threat Modeling,5
+Cybersecurity Specialist,Technical,Network Security,5
+Cybersecurity Specialist,Technical,Incident Response,5
+Cybersecurity Specialist,Technical,Vulnerability Assessment,4
+HR Manager,Domain,Talent Acquisition,5
+HR Manager,Domain,Employee Retention,5
+HR Manager,Domain,HR Compliance,4
+HR Manager,Domain,Performance Management,5
+HR Executive,Domain,Onboarding,5
+HR Executive,Domain,HR Operations,5
+HR Executive,Domain,Payroll Coordination,4
+Recruitment Specialist,Domain,Candidate Sourcing,5
+Recruitment Specialist,Domain,Screening & Interviewing,5
+Recruitment Specialist,Domain,Salary Benchmarking,4
+Employee Relations,Domain,Conflict Resolution,5
+Employee Relations,Domain,Workplace Policy,5
+Employee Relations,Domain,Employee Wellbeing,4
+Accountant,Domain,Financial Accounting,5
+Accountant,Domain,General Ledger,5
+Accountant,Domain,Tax Compliance,4
+Auditor,Domain,Internal Audit,5
+Auditor,Domain,Risk Assessment,5
+Auditor,Domain,Financial Controls,4
+Financial Analyst,Domain,Financial Modeling,5
+Financial Analyst,Domain,Budgeting & Forecasting,5
+Financial Analyst,Domain,Variance Analysis,4
+SEO Specialist,Domain,Search Engine Optimization,5
+SEO Specialist,Domain,Keyword Research,5
+SEO Specialist,Domain,Technical SEO,4
+SEO Analyst,Domain,Traffic Analysis,5
+SEO Analyst,Domain,Rank Tracking,5
+SEO Analyst,Domain,Competitor Analysis,4
+Content Strategist,Domain,Content Strategy,5
+Content Strategist,Domain,Copywriting,5
+Content Strategist,Domain,Editorial Calendar,4
+Content Lead,Domain,Brand Storytelling,5
+Content Lead,Domain,Content Production,5
+Content Lead,Domain,Creative Direction,4
+Marketing Executive,Domain,Campaign Management,5
+Marketing Executive,Domain,Market Research,5
+Marketing Executive,Domain,Social Media Marketing,4
+Helpdesk,Domain,Troubleshooting,5
+Helpdesk,Domain,Customer Support,5
+Helpdesk,Domain,Ticket Resolution,4
+Support Engineer,Domain,Technical Troubleshooting,5
+Support Engineer,Domain,Root Cause Analysis,5
+Support Engineer,Domain,SLA Management,4
+Business Development,Domain,Market Expansion,5
+Business Development,Domain,Partnership Management,5
+Business Development,Domain,Deal Closing,4
+Tester,Technical,Test Automation,5
+Tester,Technical,Manual Testing,5
+Tester,Technical,Bug Tracking,4

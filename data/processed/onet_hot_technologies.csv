@@ -1,0 +1,177 @@
+SoftwareName,Occurrences,Category,InDemandCount
+Microsoft Excel,859,Spreadsheet software,339
+Microsoft Office software,817,Office suite software,384
+Microsoft Word,784,Word processing software,81
+Microsoft Outlook,642,Electronic mail software,187
+Microsoft PowerPoint,629,Presentation software,196
+Microsoft Access,372,Data base user interface and query software,9
+SAP software,283,Enterprise resource planning ERP software,33
+Microsoft Windows,241,Operating system software,3
+Microsoft Project,201,Project management software,2
+Autodesk AutoCAD,171,Computer aided design CAD software,39
+Microsoft SharePoint,166,Document management software,11
+Adobe Acrobat,165,Document management software,1
+Structured query language SQL,151,Data base user interface and query software,40
+Microsoft Visio,149,Process mapping and design software,3
+Adobe Photoshop,144,Graphics or photo imaging software,26
+Facebook,135,Web page creation and editing software,0
+Python,132,Object or component oriented development software,66
+Linux,122,Operating system software,20
+SAS,119,Analytical or scientific software,12
+The MathWorks MATLAB,111,Analytical or scientific software,19
+C++,110,Object or component oriented development software,24
+Google Docs,106,Word processing software,0
+R,102,Object or component oriented development software,28
+Adobe Illustrator,100,Graphics or photo imaging software,17
+Oracle Java,99,Object or component oriented development software,17
+Microsoft Visual Basic,96,Development environment software,0
+Microsoft SQL Server,94,Data base user interface and query software,3
+ESRI ArcGIS software,93,Geographic information system,21
+IBM SPSS Statistics,92,Analytical or scientific software,3
+UNIX,89,Operating system software,5
+Adobe InDesign,88,Desktop publishing software,12
+Salesforce software,88,Customer relationship management CRM software,18
+Oracle Database,87,Data base user interface and query software,1
+Extensible markup language XML,87,Enterprise application integration software,2
+Intuit QuickBooks,84,Accounting software,4
+JavaScript,84,Web platform development software,13
+Oracle PeopleSoft,79,Enterprise resource planning ERP software,0
+Hypertext markup language HTML,78,Web platform development software,9
+Adobe Creative Cloud software,78,Graphics or photo imaging software,20
+MEDITECH software,77,Medical software,0
+Tableau,73,Business intelligence and data analysis software,17
+C,69,Development environment software,12
+Perl,66,Object or component oriented development software,2
+Epic Systems,63,Medical software,21
+Dassault Systemes SolidWorks,58,Computer aided design CAD software,12
+Oracle Primavera Enterprise Project Portfolio Management,57,Project management software,0
+Apple macOS,57,Operating system software,2
+C#,55,Object or component oriented development software,11
+Teradata Database,53,Data base management system software,0
+Atlassian JIRA,53,Content workflow software,14
+Amazon Web Services AWS software,52,Data base user interface and query software,23
+Zoom,52,Video conferencing software,7
+MySQL,50,Data base user interface and query software,2
+Microsoft Active Server Pages ASP,49,Web platform development software,0
+eClinicalWorks EHR software,48,Medical software,0
+Bentley MicroStation,48,Computer aided design CAD software,10
+Microsoft Azure software,48,Development environment software,23
+Git,47,File versioning software,13
+PHP,47,Web platform development software,2
+Microsoft Visual Studio,46,Development environment software,1
+Microsoft Visual Basic for Applications VBA,45,Development environment software,2
+Shell script,43,Operating system software,1
+Adobe After Effects,41,Video creation and editing software,6
+Apache Hadoop,41,Data base management system software,3
+Google Analytics,40,Data mining software,5
+Splunk Enterprise,40,Cloud-based management software,4
+Autodesk Revit,40,Computer aided design CAD software,14
+Trimble SketchUp Pro,37,Graphics or photo imaging software,4
+Bash,35,Operating system software,6
+Cascading style sheets CSS,35,Web platform development software,8
+GitHub,35,Application server software,7
+Atlassian Confluence,34,Project management software,2
+Ruby,33,Development environment software,0
+Microsoft SQL Server Reporting Services SSRS,33,Object or component oriented development software,0
+Microsoft Teams,32,Project management software,5
+Yardi software,32,Data base user interface and query software,2
+Microsoft .NET Framework,31,Development environment software,1
+Eclipse IDE,31,Development environment software,2
+Apache Hive,31,Data base management system software,0
+PostgreSQL,31,Object oriented data base management software,4
+Marketo Marketing Automation,30,Sales and marketing software,0
+Autodesk AutoCAD Civil 3D,30,Computer aided design CAD software,9
+NoSQL,30,Data base management system software,3
+Ansible software,29,Expert system software,4
+Microsoft PowerShell,29,Development environment software,8
+Apache Cassandra,29,Data base management system software,0
+Docker,28,Application server software,7
+Go,28,Development environment software,5
+Puppet,28,Configuration management software,0
+Slack,27,Cloud-based data access and sharing software,0
+jQuery,27,Object or component oriented development software,1
+Amazon Redshift,27,Data base user interface and query software,1
+Apache Kafka,27,Development environment software,5
+Cisco Webex,27,Video conferencing software,0
+MongoDB,27,Data base management system software,3
+Microsoft Windows Server,27,Application server software,2
+JavaScript Object Notation JSON,26,Web platform development software,1
+Google Workspace software,26,Office suite software,4
+Mozilla Firefox,26,Internet browser software,3
+Red Hat Enterprise Linux,26,Operating system software,1
+Elasticsearch,25,Data base management system software,0
+AJAX,25,Web platform development software,0
+Amazon Elastic Compute Cloud EC2,25,Data base user interface and query software,0
+UNIX Shell,25,Operating system software,0
+Microsoft Power BI,25,Business intelligence and data analysis software,18
+Swift,25,Object or component oriented development software,0
+Apache Subversion SVN,24,File versioning software,0
+Oracle PL/SQL,24,Data base management system software,1
+Node.js,24,Web platform development software,3
+Scala,23,Object or component oriented development software,2
+Apache Spark,23,Business intelligence and data analysis software,4
+Apache Tomcat,23,Web platform development software,0
+Selenium,22,Program testing software,1
+Apache Maven,21,Development environment software,0
+Microsoft ASP.NET,21,Web platform development software,0
+Django,21,Web platform development software,0
+Apple Safari,21,Internet browser software,3
+WordPress,21,Web page creation and editing software,4
+Chef,21,Configuration management software,0
+JUnit,20,Program testing software,0
+Amazon DynamoDB,20,Data base management system software,0
+Amazon Web Services AWS CloudFormation,19,Cloud-based management software,1
+Microsoft SQL Server Integration Services SSIS,19,Enterprise application integration software,1
+Transact-SQL,19,Data base user interface and query software,1
+Google Angular,19,Web platform development software,3
+ServiceNow,18,Data base user interface and query software,7
+HubSpot software,18,Sales and marketing software,0
+Apple iOS,17,Operating system software,2
+Spring Framework,16,Web platform development software,2
+React,16,Web platform development software,4
+Hibernate ORM,16,Object oriented data base management software,0
+Kubernetes,15,Application server software,8
+Spring Boot,14,Application server software,2
+Red Hat OpenShift,14,Application server software,0
+Microsoft Active Directory,14,Internet directory services software,8
+Jenkins CI,14,Enterprise application integration software,5
+Kronos Workforce Timekeeper,13,Time accounting software,1
+Workday software,13,Enterprise resource planning ERP software,6
+IBM DB2,13,Data base user interface and query software,0
+Google Android,12,Operating system software,2
+Henry Schein Dentrix,12,Medical software,3
+Microsoft Edge,12,Internet browser software,3
+Canva,11,Graphics or photo imaging software,6
+IBM Terraform,10,Configuration management software,7
+Figma,9,Graphical user interface development software,5
+Border Gateway Protocol BGP,9,Switch or router software,1
+TikTok,9,Video creation and editing software,5
+Oracle Java 2 Platform Enterprise Edition J2EE,9,Development environment software,0
+Alteryx software,8,Business intelligence and data analysis software,1
+TypeScript,8,Object or component oriented development software,4
+Google Sheets,8,Spreadsheet software,0
+IBM WebSphere MQ,8,Cloud-based management software,1
+Oracle SQL Developer,6,Development environment software,0
+Snowflake,6,Data mining software,5
+Procore software,6,Analytical or scientific software,1
+Apache Airflow,6,Procedure management software,1
+Google Looker Analytics,6,Business intelligence and data analysis software,1
+Microsoft Team Foundation Server,6,Project management software,0
+Asana,5,Cloud-based data access and sharing software,0
+SAP Concur,5,Accounting software,1
+Informatica software,5,Metadata management software,1
+Grafana Labs Grafana Cloud,5,Graphical user interface development software,1
+TensorFlow,5,Analytical or scientific software,2
+SAP ERP,5,Enterprise resource planning ERP software,0
+Bootstrap,4,Web platform development software,0
+Atlassian Bitbucket,4,Application server software,0
+GitLab,4,Application server software,0
+Microsoft Power Automate,4,Enterprise application integration software,0
+Redis,4,Data base management system software,0
+PyTorch,4,Data base user interface and query software,2
+Microsoft Power Platform software,4,Enterprise application integration software,1
+Oracle Cloud software,4,Cloud-based management software,0
+Prometheus,4,Data base user interface and query software,1
+Intuit TurboTax,3,Tax preparation software,1
+GraphQL,3,Data base user interface and query software,1
+Vue.js,3,Web platform development software,1

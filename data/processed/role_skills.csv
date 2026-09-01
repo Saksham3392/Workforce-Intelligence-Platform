@@ -1,0 +1,150 @@
+Role,Category,Skill,Importance
+Sales Executive,Domain,Lead Generation,5
+Sales Executive,Domain,Negotiation,5
+Sales Executive,Domain,Client Relationship Management,4
+Sales Executive,Domain,Pipeline Management,4
+Sales Executive,Domain,B2B Sales,4
+Account Manager,Domain,Account Growth,5
+Account Manager,Domain,Contract Renewal,5
+Account Manager,Domain,Client Relationship Management,5
+Account Manager,Domain,Cross-selling,4
+Software Engineer,Technical,Data Structures & Algorithms,5
+Software Engineer,Technical,System Design,5
+Software Engineer,Technical,REST APIs,5
+Software Engineer,Technical,Code Quality & Testing,4
+Software Engineer,Technical,CI/CD,4
+Developer,Technical,Full-Stack Development,5
+Developer,Technical,API Integration,5
+Developer,Technical,Database Design,4
+Developer,Technical,Git Version Control,4
+Engineer,Technical,Backend Architecture,5
+Engineer,Technical,Cloud Infrastructure,5
+Engineer,Technical,DevOps,4
+Data Analyst,Technical,Exploratory Data Analysis,5
+Data Analyst,Technical,Data Cleaning,5
+Data Analyst,Technical,Statistical Analysis,5
+Data Analyst,Technical,Business Reporting,4
+Cybersecurity Specialist,Technical,Threat Modeling,5
+Cybersecurity Specialist,Technical,Network Security,5
+Cybersecurity Specialist,Technical,Incident Response,5
+Cybersecurity Specialist,Technical,Vulnerability Assessment,4
+HR Manager,Domain,Talent Acquisition,5
+HR Manager,Domain,Employee Retention,5
+HR Manager,Domain,HR Compliance,4
+HR Manager,Domain,Performance Management,5
+HR Executive,Domain,Onboarding,5
+HR Executive,Domain,HR Operations,5
+HR Executive,Domain,Payroll Coordination,4
+Recruitment Specialist,Domain,Candidate Sourcing,5
+Recruitment Specialist,Domain,Screening & Interviewing,5
+Recruitment Specialist,Domain,Salary Benchmarking,4
+Employee Relations,Domain,Conflict Resolution,5
+Employee Relations,Domain,Workplace Policy,5
+Employee Relations,Domain,Employee Wellbeing,4
+Accountant,Domain,Financial Accounting,5
+Accountant,Domain,General Ledger,5
+Accountant,Domain,Tax Compliance,4
+Auditor,Domain,Internal Audit,5
+Auditor,Domain,Risk Assessment,5
+Auditor,Domain,Financial Controls,4
+Financial Analyst,Domain,Financial Modeling,5
+Financial Analyst,Domain,Budgeting & Forecasting,5
+Financial Analyst,Domain,Variance Analysis,4
+SEO Specialist,Domain,Search Engine Optimization,5
+SEO Specialist,Domain,Keyword Research,5
+SEO Specialist,Domain,Technical SEO,4
+SEO Analyst,Domain,Traffic Analysis,5
+SEO Analyst,Domain,Rank Tracking,5
+SEO Analyst,Domain,Competitor Analysis,4
+Content Strategist,Domain,Content Strategy,5
+Content Strategist,Domain,Copywriting,5
+Content Strategist,Domain,Editorial Calendar,4
+Content Lead,Domain,Brand Storytelling,5
+Content Lead,Domain,Content Production,5
+Content Lead,Domain,Creative Direction,4
+Marketing Executive,Domain,Campaign Management,5
+Marketing Executive,Domain,Market Research,5
+Marketing Executive,Domain,Social Media Marketing,4
+Helpdesk,Domain,Troubleshooting,5
+Helpdesk,Domain,Customer Support,5
+Helpdesk,Domain,Ticket Resolution,4
+Support Engineer,Domain,Technical Troubleshooting,5
+Support Engineer,Domain,Root Cause Analysis,5
+Support Engineer,Domain,SLA Management,4
+Business Development,Domain,Market Expansion,5
+Business Development,Domain,Partnership Management,5
+Business Development,Domain,Deal Closing,4
+Tester,Technical,Test Automation,5
+Tester,Technical,Manual Testing,5
+Tester,Technical,Bug Tracking,4
+Sales Executive,Software,Salesforce,5
+Sales Executive,Software,HubSpot,4
+Sales Executive,Software,LinkedIn Sales Navigator,4
+Account Manager,Software,Salesforce,5
+Account Manager,Software,Gainsight,4
+Account Manager,Software,Zendesk,4
+Software Engineer,Software,Python,5
+Software Engineer,Software,Docker,5
+Software Engineer,Software,Kubernetes,4
+Software Engineer,Software,AWS,5
+Software Engineer,Software,Git,5
+Developer,Software,JavaScript / TypeScript,5
+Developer,Software,React,4
+Developer,Software,Node.js,4
+Developer,Software,PostgreSQL,5
+Engineer,Software,Linux,5
+Engineer,Software,AWS,5
+Engineer,Software,Terraform,4
+Data Analyst,Software,Python,5
+Data Analyst,Software,SQL,5
+Data Analyst,Software,PowerBI,4
+Data Analyst,Software,Tableau,4
+Data Analyst,Software,Excel,4
+Cybersecurity Specialist,Software,Wireshark,5
+Cybersecurity Specialist,Software,Splunk,5
+Cybersecurity Specialist,Software,Nmap,4
+Cybersecurity Specialist,Software,SIEM Tools,4
+HR Manager,Software,Workday,5
+HR Manager,Software,BambooHR,4
+HR Manager,Software,Excel,4
+HR Executive,Software,Workday,4
+HR Executive,Software,Excel,5
+Recruitment Specialist,Software,Greenhouse,5
+Recruitment Specialist,Software,Lever,4
+Recruitment Specialist,Software,LinkedIn Recruiter,5
+Employee Relations,Software,ServiceNow HR,4
+Employee Relations,Software,Excel,4
+Accountant,Software,QuickBooks,5
+Accountant,Software,SAP Financials,5
+Accountant,Software,Excel,5
+Auditor,Software,ACL Analytics,4
+Auditor,Software,SAP,5
+Auditor,Software,Excel,5
+Financial Analyst,Software,Excel,5
+Financial Analyst,Software,Tableau,4
+Financial Analyst,Software,SQL,4
+Financial Analyst,Software,PowerBI,4
+SEO Specialist,Software,Google Analytics,5
+SEO Specialist,Software,Ahrefs,5
+SEO Specialist,Software,SEMrush,4
+SEO Analyst,Software,Google Search Console,5
+SEO Analyst,Software,Screaming Frog,4
+Content Strategist,Software,WordPress,4
+Content Strategist,Software,Notion,4
+Content Strategist,Software,Canva,3
+Content Lead,Software,Figma,4
+Content Lead,Software,Adobe Creative Cloud,4
+Marketing Executive,Software,Mailchimp,4
+Marketing Executive,Software,Google Ads,5
+Marketing Executive,Software,Meta Ads Manager,4
+Helpdesk,Software,Jira Service Desk,5
+Helpdesk,Software,Zendesk,5
+Support Engineer,Software,Jira,5
+Support Engineer,Software,Postman,4
+Support Engineer,Software,Splunk,4
+Business Development,Software,Salesforce,5
+Business Development,Software,ZoomInfo,4
+Tester,Software,Selenium,5
+Tester,Software,Jira,5
+Tester,Software,Postman,4
+Tester,Software,PyTest,4
