@@ -11,6 +11,12 @@ An enterprise-grade, end-to-end People Analytics & Agentic AI platform that pred
 
 ---
 
+### 🌐 Live Interactive Demo
+Experience the platform in action directly in your browser without local setup:  
+👉 **[Launch Workforce Intelligence Platform](https://workforce-intelligence-platform-xsqx.onrender.com)**
+
+---
+
 ## 🏛️ System Architecture
 
 ```
