@@ -15,6 +15,11 @@ An enterprise-grade, end-to-end People Analytics & Agentic AI platform that pred
 Experience the platform in action directly in your browser without local setup:  
 👉 **https://workforce-intelligence-platform-xsqx.onrender.com**
 
+And to view in localhost offline
+```cmd
+cd /d "c:\Users\Asus\Downloads\CSE AI 5th Sem\AGAI\Projects\AGAI Project" && set PYTHONPATH=. && start http://localhost:8501 && python -m streamlit run frontend/app.py
+```
+
 ---
 
 ## 🏛️ System Architecture
